@@ -1,0 +1,204 @@
+{
+  "source_title": "De la musique dans les asiles d’aliénés, et des concerts de la Senavra et de Quatre-Mares",
+  "title_zh": "精神病院中的音樂：塞納夫拉與卡特爾馬爾音樂會（1860）",
+  "version": "0.1.0",
+  "language": "fr",
+  "catalogue": "https://archive.org/details/BIUSante_90152x1860x06/page/n610/mode/1up",
+  "manifest": "https://archive.org/metadata/BIUSante_90152x1860x06",
+  "source_ocr": "https://archive.org/details/BIUSante_90152x1860x06",
+  "shelfmark": "BIU Santé 90152x1860x06, pp. 607–612",
+  "source_provider": "Bibliothèque interuniversitaire de Santé, Université Paris Cité",
+  "historical_institution": "Alexandre Brierre de Boismont",
+  "imprint": "Annales médico-psychologiques, 3e série, tome VI, 1860, pp. 607–612",
+  "rights": "The nineteenth-century printed text is in the public domain. The source images are linked for verification. CC BY 4.0 applies to new editorial material and encoding wherever copyright applies. The source repository identifies its digitisation as available under the French Open Licence (Licence Ouverte / Etalab).",
+  "coverage_note": "Complete article as printed in Annales médico-psychologiques, pp. 607–612, identified there as from Union médicale. It includes the section heading, signature, verse and three footnotes.",
+  "frames": [
+    {
+      "id": "f001",
+      "frame": 1,
+      "source": {
+        "canvas": "https://archive.org/details/BIUSante_90152x1860x06/page/n610/mode/1up",
+        "url": "https://ia801406.us.archive.org/BookReader/BookReaderImages.php?id=BIUSante_90152x1860x06&itemPath=%2F32%2Fitems%2FBIUSante_90152x1860x06&server=ia801406.us.archive.org&page=n610.jpg",
+        "original_url": "https://archive.org/download/BIUSante_90152x1860x06/page/n610.jpg",
+        "size": [
+          1488,
+          2362
+        ],
+        "sha256": "14fc1ada920aa5a861d2cec628b3a02bd0ec03cc9c6bbe2b2432291b1d797fbb"
+      },
+      "parts": [
+        {
+          "id": "f001-s",
+          "side": "S",
+          "printed_page": "607",
+          "status": "transcribed",
+          "units": [
+            {
+              "kind": "prose",
+              "text": "JOURNAUX FRANÇAIS.\n\nUnion médicale.\n\nDe la musique dans les asiles d’aliénés, et des concerts de la Senavra\net de Quatre-Mares.\n\nJe venais de Bologne (1829), où Gualandi m’avait parlé d’un\nton passablement ironique de l’établissement d’Aversa et de ses\nmusiciens. Aussi, malgré l’opinion que je m’étais déjà faite, dès\ncette époque, de ne me ranger du côté de la critique qu’après avoir\nvérifié les faits, la verve du médecin bolonais avait été telle, que\nje me surprenais, souriant à la pensée des deux exécutants dont il\nm’avait fait un portrait si comique. Arrivé à Naples, ma pre-\nmière visite fut pour le professeur Vulpes, médecin en chef de\nl’établissement des aliénés ; le surlendemain, nous nous mettions en\nroute pour Aversa, qui est à quatre milles environ de la capitale\ndes Deux-Siciles.\n\nJe ne dirai rien de l’asile, qui, comme tant d’autres du même\ngenre, était un ancien cloître, fort mal approprié à sa nouvelle des-\ntination ; j’ai hâte d’arriver aux artistes dont on parlait alors beau-\ncoup en Italie. Après avoir gravi l’escalier qui conduit au premier\nétage, et traversé une longue galerie où étaient autrefois les cel-\nlules des religieux, transformées en loges de malades, nous entrâmes\ndans le salon de conversation. On y avait placé un piano, des in-\nstruments de musique et plusieurs jeux. Presque aussitôt deux\naliénés, qui s’y trouvaient déjà, exécutèrent quelques morceaux.\nL’un touchait du piano et l’autre pinçait de la guitare. Je ne sais\npourquoi je ne pus m’empêcher de croire que c’étaient les mêmes\nindividus qui figuraient, au dire de Gualandi, devant tous les étran-\ngers qui venaient visiter l’établissement. Cette première impression\ndissipée, je reconnus que ces exécutants ne manquaient pas\nd’une certaine habileté. L’un d’eux était monomaniaque, l’autre\nimbécile, et cependant ils s’accordaient très bien. Sans doute, il\ny avait du charlatanisme dans cette exposition, mais l’idée, réalisée\nplus tard, n’en était pas moins là en germe, et j’ai la conviction que\nle duo d’Aversa, qui fit du bruit, a été le point de départ des\nclasses de musique organisées dans les asiles et des concerts qui y\nsont donnés.\n\nIl n’y avait, d’ailleurs, qu’à se ressouvenir, pour apprécier l’uti-\nlité de la musique dans plus d’une circonstance. Un des exemples\nles plus connus est celui du célèbre chanteur napolitain Farinelli,\nqui excita, dans son temps, un enthousiasme universel. Appelé à",
+              "id": "f001-s-u01"
+            }
+          ],
+          "notes": []
+        }
+      ]
+    },
+    {
+      "id": "f002",
+      "frame": 2,
+      "source": {
+        "canvas": "https://archive.org/details/BIUSante_90152x1860x06/page/n611/mode/1up",
+        "url": "https://ia601406.us.archive.org/BookReader/BookReaderImages.php?id=BIUSante_90152x1860x06&itemPath=%2F32%2Fitems%2FBIUSante_90152x1860x06&server=ia601406.us.archive.org&page=n611.jpg",
+        "original_url": "https://archive.org/download/BIUSante_90152x1860x06/page/n611.jpg",
+        "size": [
+          1488,
+          2362
+        ],
+        "sha256": "75f383057616bc447b69ab0e4650d13b0e2711ca1c68b0d6ceaf7a68c61352a8"
+      },
+      "parts": [
+        {
+          "id": "f002-s",
+          "side": "S",
+          "printed_page": "608",
+          "status": "transcribed",
+          "units": [
+            {
+              "kind": "prose",
+              "text": "REVUE FRANÇAISE ET ÉTRANGÈRE.\n\nMadrid, pour essayer, par les charmes de son art, de tirer Philippe V\nde l’état d’apathie et d’indifférence dans lequel il était tombé, on\nraconte qu’aux premiers accents de sa voix partant d’une pièce\nvoisine, le roi releva la tête, manifestant bientôt le plaisir que lui\ncausaient ces sons merveilleux. Le chanteur lui ayant été présenté,\nle monarque lui demanda ce qu’il voulait pour récompense : « Sire,\nje ne désire qu’une chose, c’est que Votre Majesté se rase et s’ha-\nbille ! » L’histoire rapporte que Philippe suivit les avis de son nou-\nveau médecin, qu’il combla de présents et d’honneurs. Lorsqu’un\naccès le reprenait, Farinelli chantait, et le nuage se dissipait.\n\nIl est possible que la musique puisse guérir parfois la folie, en\nréveillant tout un monde d’idées, en rappelant quelque sentiment\ncher au cœur, en déterminant une sensation nouvelle, mais nous la\nregardons surtout comme une distraction utile, agréable, avanta-\ngeuse à la santé. Il est certain qu’elle ne peut que produire des\nimpressions douces sur ceux qui l’aiment, et son rhythme même\nn’est pas à dédaigner pour l’ordre des asiles. Nous avons vu, à\nSaint-Athanase, les aliénés, réunis au son du tambour, se ranger\nen quelques secondes d’une manière méthodique, et se rendre à\nleurs travaux d’un pas cadencé et allègre.\n\nL’enseignement de la musique est aujourd’hui répandu dans les\nasiles, et s’il ne crée pas de nombreux musiciens, il contribue à en-\nlever à la paresse quelques-unes de ces longues heures qui étaient\nsi souvent mal employées. Rien de plus commun que de voir les\nmalades qui ont le sentiment musical, ceux même qui ne sont pas\nmusiciens, mais dont l’éducation a agrandi les idées, se rassembler\ndans le salon où l’on chante, où l’on joue de quelque instrument, et\nmanifester un plaisir réel quand l’exécutant a su parler aux oreilles\net à l’âme. Peut-être l’exercice de cet art a-t-il quelquefois enrayé\nl’aliénation ? Nous avons, depuis plus de vingt ans, dans notre éta-\nblissement, une aliénée entrée avec des symptômes de démence ;\ncette dame, qui joue une grande partie de la journée sur son piano,\nn’a rien perdu de son activité, de ses habitudes, et le dérangement\nintellectuel est resté à peu près ce qu’il était au début.\n\nJe pourrais faire ici un tableau intéressant des effets de la mu-\nsique que j’ai pu constater dans ma pratique particulière, je préfère\nreproduire quelques-unes des impressions que m’ont fait éprouver\ndeux concerts d’aliénés.\n\nEn 1859, au mois de septembre, je me rendis à la Senavra, qui\nest encore l’asile des aliénés de la province de Milan ; il est bien\namélioré de ce qu’il était, lorsque je le visitai il y a trente ans. Il est\nsurtout dirigé par un médecin instruit et plein de zèle ; mais quelle",
+              "id": "f002-s-u01"
+            }
+          ],
+          "notes": []
+        }
+      ]
+    },
+    {
+      "id": "f003",
+      "frame": 3,
+      "source": {
+        "canvas": "https://archive.org/details/BIUSante_90152x1860x06/page/n612/mode/1up",
+        "url": "https://ia801406.us.archive.org/BookReader/BookReaderImages.php?id=BIUSante_90152x1860x06&itemPath=%2F32%2Fitems%2FBIUSante_90152x1860x06&server=ia801406.us.archive.org&page=n612.jpg",
+        "original_url": "https://archive.org/download/BIUSante_90152x1860x06/page/n612.jpg",
+        "size": [
+          1488,
+          2362
+        ],
+        "sha256": "628cdc583ab141e825ee04a7502699426620187d27f492f83728561f1cbbb6b8"
+      },
+      "parts": [
+        {
+          "id": "f003-s",
+          "side": "S",
+          "printed_page": "609",
+          "status": "transcribed",
+          "units": [
+            {
+              "kind": "prose",
+              "text": "JOURNAUX FRANÇAIS.\n\nque soit ma sympathie pour la nation italienne, je ne lui cacherai\npas qu’elle est sous ce rapport inférieure à la France, à l’Angleterre,\nà l’Allemagne, aux États-Unis, etc. Milan, ville si éclairée et si\nriche, devrait se piquer d’honneur ; elle a, d’ailleurs, dans le porte-\nfeuille de M. Castiglioni, un bon projet d’asile qui rivaliserait, s’il\nétait exécuté, avec ce qui a été fait de bien en ce genre.\n\nLorsque j’eus parcouru les divers quartiers de l’établissement,\noù, par parenthèse, je rencontrai très peu de paralysés généraux et\npas un exemple de la méningite chronique lente, le médecin ayant\nrépondu à ma demande qu’il n’y en avait pas en ce moment, je fus\nconduit dans une grande pièce consacrée aux exercices de la mu-\nsique. Là se trouvaient douze aliénés, dont plusieurs paraissaient\nsous l’empire de leurs préoccupations habituelles. Les pupitres\nfurent rapidement disposés en cercle, comme dans nos orchestres\nmilitaires ; le surveillant principal, homme aussi intelligent que\ncelui de Charenton, musicien distingué, se plaça au centre de sa\ntroupe, secondé par deux infirmiers qui avaient pour mission non-\nseulement de maintenir l’ordre parmi ces artistes, d’une disci-\npline peu sûre, mais encore de les soutenir dans leurs exercices.\nAu premier coup de la baguette du maître, tous les yeux cessèrent\nleurs mouvements désordonnés pour se fixer sur les notes, et un\nson parfaitement modulé, plein d’énergie, de force et d’harmonie,\nretentit dans la salle, produit par la réunion de 14 instruments,\n5 flûtes, 5 trombones et 4 cors à piston. Deux grands morceaux\nfurent joués avec un entrain et un accord qui eussent valu des\napplaudissements à des musiciens raisonnables. L’un d’eux avait\nquelque chose de grandiose et d’irrésistible : c’était un mélange de\nces sons qui font tressaillir, électrisent et suspendent toutes les\noccupations, comme lorsque certaines musiques de régiments vien-\nnent à passer sous nos fenêtres et nous font courir aux croisées.\nL’autre morceau avait une expression toute différente, les sentiments\nqu’il exprimait étaient de ceux qui portent à la prière, à la tendresse,\naux douces émotions, qui font venir les larmes aux yeux. Pendant\nleur durée, la tenue des malades fut excellente ; mais dès que le\nrepos arrivait pour quelques-uns, on voyait aussitôt la désharmonie\nphysique et intellectuelle se montrer chez plusieurs de ces singu-\nliers exécutants.\n\nDe cette salle consacrée à la musique instrumentale, nous pas-\nsâmes dans la division des femmes, où une pièce avait été réservée\npour la musique vocale. Elle contenait le même nombre de concer-\ntants, 12 femmes et 2 infirmières. C’était un jour d’excitation,\ncomme il y en a souvent dans nos établissements ; aussi avait-on",
+              "id": "f003-s-u01"
+            }
+          ],
+          "notes": []
+        }
+      ]
+    },
+    {
+      "id": "f004",
+      "frame": 4,
+      "source": {
+        "canvas": "https://archive.org/details/BIUSante_90152x1860x06/page/n613/mode/1up",
+        "url": "https://ia801406.us.archive.org/BookReader/BookReaderImages.php?id=BIUSante_90152x1860x06&itemPath=%2F32%2Fitems%2FBIUSante_90152x1860x06&server=ia801406.us.archive.org&page=n613.jpg",
+        "original_url": "https://archive.org/download/BIUSante_90152x1860x06/page/n613.jpg",
+        "size": [
+          1488,
+          2362
+        ],
+        "sha256": "b7ad819f5c3340eab3c429b2e32f6ac83e111a06a7870273405ac180f80c1a31"
+      },
+      "parts": [
+        {
+          "id": "f004-s",
+          "side": "S",
+          "printed_page": "610",
+          "status": "transcribed",
+          "units": [
+            {
+              "kind": "prose",
+              "text": "REVUE FRANÇAISE ET ÉTRANGÈRE\n\nété dans l’obligation de laisser quelques-unes des chanteuses dans\nles quartiers, et parmi celles qui étaient présentes deux ou trois se\nlivraient à des mouvements passablement irréguliers. Au reste, rien\nn’avait été disposé d’avance, car je m’étais présenté à l’heure de la\nvisite, sans lettre d’avis, et je m’en aperçus bien à quelques circon-\nstances particulières. Malgré ces dispositions peu favorables, le\nconcert commença : c’était un beau chœur d’un opéra italien. Dès les\npremières intonations de cette langue, si bien faite pour le chant, et\npour tous les sentiments généreux de l’âme humaine, je me sentis\nému. Ces voix se mariaient admirablement, elles avaient de la fraî-\ncheur, de l’étendue, quelque chose de sympathique ; les diverses\ntonalités se détachaient sans rompre l’accord, et lorsqu’à l’en-\nsemble succédaient les parties à deux, trois, quatre voix, l’expres-\nsion musicale, parfaitement nuancée, faisait sentir que chaque indivi-\ndualité avait recouvré pour ce moment toute la puissance de son moi.\n\nUn deuxième morceau, d’un caractère vif et gai, ne fut pas moins\nbien rendu. Je me rappelai cette phrase d’un de mes amis, qui me\ndisait l’hiver dernier au Théâtre-Italien : « C’est une nation de\nténors ; mais, ajouta-t-il, ces ténors-là chanteront bientôt un opéra\nseria dont les accents retentiront dans le monde entier. »\n\nJe n’avais pas oublié le plaisir que m’avaient causé les musi-\nciens de la Senavra, lorsque, il y a peu de jours, je me rendis à\nQuatre-Mares, dans l’intention de comparer les exercices musicaux\nde cet asile avec ceux de l’établissement de Milan. Ne voulant pas\nsurprendre mon excellent confrère M. Dumesnil, je lui écrivis la\nveille, de Rouen, qui n’est séparé de Quatre-Mares que par une\ndistance d’une lieue et demie, que j’irais le visiter le lendemain et\nentendre ses artistes. Lorsque je me présentai, la lettre était encore\nen chemin, et elle arriva une heure après moi, absolument comme\nles choses se passaient naguère dans la banlieue de Paris, où les\nnouvelles parvenaient plus tard qu’à Lyon, Bordeaux, Marseille. Un\ninstant, je crus que le concert n’aurait pas lieu, un de ses coryphées\nétait à Vichy ; enfin, on trouva M. Briens, le chef d’orchestre, et\ngrâce à son concours, à celui de MM. Laurent, médecin adjoint,\nLaflize, interne, tous deux musiciens, du directeur, qui est aussi un\ndilettante, l’air retentit du bruit des instruments, qui jouaient une\nmarche d’une bonne facture.\n\nLes musiciens, au nombre de 30 environ, convalescents, chro-\nniques, épileptiques, déments, imbéciles, s’étaient installés au-des-\nsous de l’appartement où nous étions réunis. Chacun avait sa partie\nnotée fixée sur son instrument, et leur attention à la regarder était\nvraiment remarquable. M. Briens battait la mesure avec l’anima-",
+              "id": "f004-s-u01"
+            }
+          ],
+          "notes": [
+            "Le t de « et » à la fin de la ligne 8 du corps est peu marqué. Lecture appuyée par le vestige et la coordination qui traverse le retour à la ligne."
+          ]
+        }
+      ]
+    },
+    {
+      "id": "f005",
+      "frame": 5,
+      "source": {
+        "canvas": "https://archive.org/details/BIUSante_90152x1860x06/page/n614/mode/1up",
+        "url": "https://ia801406.us.archive.org/BookReader/BookReaderImages.php?id=BIUSante_90152x1860x06&itemPath=%2F32%2Fitems%2FBIUSante_90152x1860x06&server=ia801406.us.archive.org&page=n614.jpg",
+        "original_url": "https://archive.org/download/BIUSante_90152x1860x06/page/n614.jpg",
+        "size": [
+          1488,
+          2362
+        ],
+        "sha256": "b084576533f9c5b7c2f6a02a349cfaa4ede05552ce16bc90172862944e289e5f"
+      },
+      "parts": [
+        {
+          "id": "f005-s",
+          "side": "S",
+          "printed_page": "611",
+          "status": "transcribed",
+          "units": [
+            {
+              "kind": "prose",
+              "text": "JOURNAUX FRANÇAIS.\n\ntion qu’il aurait mise dans un concert public : on sentait qu’il était\nheureux et fier de commander à de pareilles volontés. Nous descen-\ndîmes dans la cour, pour observer de plus près les acteurs de cette\nscène, si digne d’intérêt. Chez quelques-uns, l’œil avait l’éclat de la\nvie spirituelle ; chez d’autres, il avait perdu son reflet, mais, mal-\ngré la diversité de ces éléments, l’harmonie n’en était pas moins\nparfaite. Tous ces malades avaient appris à lire la musique ; un\nd’eux n’avait commencé ses études que depuis deux mois.\n\nA la marche succédèrent des boléros, des valses et des polkas de\nla composition du maître. Il n’y aurait eu que justice à lui en\nfaire compliment, mais, ce que j’admirais et ce que je ne pou-\nvais assez louer, c’était la patience, la persévérance et le dévoue-\nment qu’il lui avait fallu pour discipliner de semblables élèves. Je\nme rendis parfaitement compte des brillants résultats qu’il avait\nobtenus dans ses classes d’ouvriers adultes, dont le nombre avait\ndépassé 150 ; et si quelque chose m’étonna, ce fut d’apprendre que\ncet enseignement n’avait plus lieu. Jamais exercice ne fut plus favo-\nrable à l’hygiène de l’artisan ; il le moralise, le distrait et peut lui\nfournir des moyens d’échapper au chômage : aussi apprendrais-je\navec une véritable satisfaction, que ma ville natale a rétabli ces\nclasses, si prospères à Paris et dans une foule de départements.\nL’exemple tout récent des orphéonistes français à Londres prouve\nl’influence de la musique : et peut-être ces chants internationaux\ndissiperont-ils quelques préjugés ? Du moins, nous pourrons répéter\nles paroles de M. Elwart, professeur au Conservatoire : « Notre\ndescente en Angleterre n’aura pas coûté une larme, et pourtant\nnous aurons bien mérité de la patrie ! » C’est aussi ce qu’avait déjà\ndit Béranger dans une ode à Wilhem :\n\nLes cœurs sont bien près de s’entendre,\nQuand les voix ont fraternisé.\n\nLe concert, qui avait duré plus d’une heure, sans que l’attention\ndes exécutants se démentît, soutenue, il est vrai, par l’exemple de\nMM. Laurent et Laflize, secondés par quelques employés, se ter-\nmina par une marche militaire à travers l’établissement, et je pus\nm’assurer que les malades en éprouvaient une impression favo-\nrable. Je félicitai M. Dumesnil de la direction qu’il avait donnée à\nce genre d’exercice (1). J’aurais désiré entendre la partie vocale, mais\n\n(1) La notice que M. Legrand du Saulle a publiée sur la musique\ninstrumentale à l’asile de Quatre-Mares sera consultée avec fruit. (Ann.\nméd.-psych., p. 610, 1859.)\n(A. B. de B.)",
+              "id": "f005-s-u01"
+            }
+          ],
+          "notes": [
+            "Les deux vers et la note de bas de page sont en retrait dans l’original."
+          ]
+        }
+      ]
+    },
+    {
+      "id": "f006",
+      "frame": 6,
+      "source": {
+        "canvas": "https://archive.org/details/BIUSante_90152x1860x06/page/n615/mode/1up",
+        "url": "https://ia801406.us.archive.org/BookReader/BookReaderImages.php?id=BIUSante_90152x1860x06&itemPath=%2F32%2Fitems%2FBIUSante_90152x1860x06&server=ia801406.us.archive.org&page=n615.jpg",
+        "original_url": "https://archive.org/download/BIUSante_90152x1860x06/page/n615.jpg",
+        "size": [
+          1488,
+          2362
+        ],
+        "sha256": "514ba80c8bb2eb60639abed97ef49e36acf26673000c3695229df739ba632fac"
+      },
+      "parts": [
+        {
+          "id": "f006-s",
+          "side": "S",
+          "printed_page": "612",
+          "status": "transcribed",
+          "units": [
+            {
+              "kind": "prose",
+              "text": "REVUE FRANÇAISE ET ÉTRANGÈRE.\n\nla mise en œuvre n’était pas encore achevée. Je sais, néanmoins,\nque les malades seront bientôt en mesure de chanter dans l’élé-\ngante chapelle qu’ils ont construite, et je compte d’autant plus\nsur la réussite de ce projet, que le directeur de Quatre-Mares a\npour aide M. Laurent, qui a fait ses preuves à l’asile de Mont-de-\nVergues (Vaucluse). Ce médecin a publié, dans les Annales médico-\npsychologiques (avril 1860), une note qui nous apprend que, depuis\nla fin de 1855, les aliénés de cette résidence, seuls, avec accompa-\ngnement d’orgue ou de piano, chantent chaque dimanche pendant\nles cérémonies religieuses, les plus beaux morceaux de musique\nsacrée, à deux, trois et quatre parties. En moyenne, les chœurs sont\nformés de 15 à 20 aliénés. Le plus ordinairement, ce sont des mor-\nceaux à trois parties. Quelques-uns d’eux sont parvenus à apprendre\ndes soli, ce qui donne à l’interprétation des nuances variées et\nagréables tout à la fois. Cette disposition existe aussi à Saint-\nAthanase, comme nous l’avons appris dans une visite que nous\nfîmes, ma dame et moi, à cet asile, créé par un des bienfaiteurs\nde la Bretagne, le docteur Follet (1).\n\nCette seconde excursion à Quatre-Mares m’a laissé, comme la\npremière fois, de bons souvenirs (2) ; si je n’y ai pas entendu les\nvoix mélodieuses de la Senavra, j’y ai acquis la certitude que les\nexercices musicaux, avec l’assistance des hommes que j’ai nommés,\navaient des chances d’avenir, et pourront donner plus qu’on en\na obtenu jusqu’alors. Il est évident que les concerts, appropriés\naux auditeurs sont pour eux des sources de distraction et de\nplaisir. Au point de vue thérapeutique, la musique n’est pas un\nagent puissant, mais elle a quelquefois guéri ; elle charme les loisirs\nde ceux qui l’ont cultivée ; elle retarde parfois les progrès du mal ;\nelle peut devenir la cause de nouvelles jouissances pour ceux qui\nen avaient le goût, sans avoir été dans la possibilité de l’apprendre.\nEnfin, réunie à tous les moyens d’instruction et de travail institués\ndans les asiles, elle est un argument de plus en faveur de l’utilité\nde ces établissements, qui rendent et rendront encore longtemps\nd’immenses services aux malheureux insensés et à leurs familles,\nmais à la condition de ne pas servir de réclame, et d’adopter les\naméliorations qui leur enlèveront les apparences de la séques-\ntration.\n\nA. BRIERRE DE BOISMONT.\n\n(1) Une visite en Bretagne à l’asile Saint-Athanase. — Quelques mots\nsur la vie à l’air libre (UNION MÉDICALE, p. 403, 1857).\n\n(2) Une excursion à l’asile de Quatre-Mares, près de Rouen (UNION\nMÉDICALE, p. 349, 1853).",
+              "id": "f006-s-u01"
+            }
+          ],
+          "notes": [
+            "La signature de l’auteur est à droite de la dernière ligne, suivie de deux notes."
+          ]
+        }
+      ]
+    }
+  ],
+  "source_rights_url": "https://www.etalab.gouv.fr/licence-ouverte-open-licence/"
+}

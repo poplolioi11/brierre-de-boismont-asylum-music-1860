@@ -1,0 +1,30 @@
+{
+  "cff-version": "1.2.0",
+  "message": "Please cite the dataset version and the original publication.",
+  "type": "dataset",
+  "title": "精神病院中的音樂：塞納夫拉與卡特爾馬爾音樂會（1860） / De la musique dans les asiles d’aliénés, et des concerts de la Senavra et de Quatre-Mares — Transcription Dataset",
+  "version": "0.1.0",
+  "date-released": "2026-11-20",
+  "authors": [
+    {
+      "given-names": "Chen-Yu",
+      "family-names": "Chu",
+      "orcid": "https://orcid.org/0009-0003-9738-6914"
+    }
+  ],
+  "repository-code": "https://github.com/poplolioi11/brierre-de-boismont-asylum-music-1860",
+  "license": "CC-BY-4.0",
+  "keywords": [
+    "精神醫學史",
+    "音樂活動",
+    "住院生活",
+    "精神病院訪視",
+    "Alexandre Brierre de Boismont",
+    "Senavra",
+    "Quatre-Mares",
+    "histoire de la psychiatrie",
+    "musique dans les asiles",
+    "patient occupation",
+    "asylum concerts"
+  ]
+}
