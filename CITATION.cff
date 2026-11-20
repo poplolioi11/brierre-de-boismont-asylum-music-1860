@@ -2,7 +2,7 @@
   "cff-version": "1.2.0",
   "message": "Please cite the dataset version and the original publication.",
   "type": "dataset",
-  "title": "精神病院中的音樂：塞納夫拉與卡特爾馬爾音樂會（1860） / De la musique dans les asiles d’aliénés, et des concerts de la Senavra et de Quatre-Mares — Transcription Dataset",
+  "title": "精神病院中的音樂:塞納夫拉與卡特爾馬爾音樂會(1860) / De la musique dans les asiles d'aliénés, et des concerts de la Senavra et de Quatre-Mares — Transcription Dataset",
   "version": "0.2.0",
   "date-released": "2026-11-20",
   "authors": [
@@ -26,5 +26,6 @@
     "musique dans les asiles",
     "patient occupation",
     "asylum concerts"
-  ]
+  ],
+  "doi": "10.5281/zenodo.24383451"
 }
